@@ -14,9 +14,9 @@ public class task1 {
         int c = scanner.nextInt();
 
         if (a == b && b == c) {
-            System.out.println("equal");
+            System.out.println("Равны");
         } else {
-            System.out.println("not equal");
+            System.out.println("Не равны");
         }
 
         scanner.close();
